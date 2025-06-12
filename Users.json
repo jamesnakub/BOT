@@ -1,0 +1,177 @@
+{
+  "1292368855020208211": {
+    "user_id": "1292368855020208211",
+    "send_info": "1",
+    "verify_info": "1",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381964444732751912",
+          "time": "10/06/2025 | เวลา 18:53 นาที 13 วินาที",
+          "send_info_point": "1",
+          "full_name": "james",
+          "age": "18",
+          "gender": "ชาย",
+          "phone_number": "14",
+          "weapon": "games"
+        },
+        "verify_info_user": {
+          "give_role_id": "1292900921721884725",
+          "verify_by_user_id": "1292368855020208211",
+          "time": "10/06/2025 | เวลา 18:53 นาที 19 วินาที",
+          "verify_info_point": "1"
+        }
+      }
+    ]
+  },
+  "1168890451969974322": {
+    "user_id": "1168890451969974322",
+    "send_info": "1",
+    "verify_info": "1",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381963963105017977",
+          "time": "10/06/2025 | เวลา 18:51 นาที 19 วินาที",
+          "send_info_point": "1",
+          "full_name": "Kong",
+          "age": "14",
+          "gender": "ชาย",
+          "phone_number": "4",
+          "weapon": "เล่นเกม"
+        },
+        "verify_info_user": {
+          "give_role_id": "1292900921721884725",
+          "verify_by_user_id": "1292368855020208211",
+          "time": "10/06/2025 | เวลา 18:53 นาที 27 วินาที",
+          "verify_info_point": "1"
+        }
+      }
+    ]
+  },
+  "537222424869994496": {
+    "user_id": "537222424869994496",
+    "send_info": "1",
+    "verify_info": "1",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381966809715970110",
+          "time": "10/06/2025 | เวลา 19:02 นาที 38 วินาที",
+          "send_info_point": "1",
+          "full_name": "jamdf",
+          "age": "15",
+          "gender": "ชาย",
+          "phone_number": "44",
+          "weapon": "gamesfg"
+        },
+        "verify_info_user": {
+          "give_role_id": "1292900921721884725",
+          "verify_by_user_id": "1292368855020208211",
+          "time": "10/06/2025 | เวลา 18:56 นาที 52 วินาที",
+          "verify_info_point": "1"
+        }
+      }
+    ]
+  },
+  "1287355465705193576": {
+    "user_id": "1287355465705193576",
+    "send_info": "1",
+    "verify_info": "1",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381967176617037937",
+          "time": "10/06/2025 | เวลา 19:04 นาที 05 วินาที",
+          "send_info_point": "1",
+          "full_name": "jamdf",
+          "age": "15",
+          "gender": "ชาย",
+          "phone_number": "55",
+          "weapon": "gamesfg"
+        },
+        "verify_info_user": {
+          "give_role_id": "1292900921721884725",
+          "verify_by_user_id": "1292368855020208211",
+          "time": "10/06/2025 | เวลา 19:04 นาที 09 วินาที",
+          "verify_info_point": "1"
+        }
+      }
+    ]
+  },
+  "1264881343800541331": {
+    "user_id": "1264881343800541331",
+    "send_info": "1",
+    "verify_info": "0",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381971126967730321",
+          "time": "10/06/2025 | เวลา 19:19 นาที 47 วินาที",
+          "send_info_point": "1",
+          "full_name": "sklfreg",
+          "age": "15",
+          "gender": "ชาย",
+          "phone_number": "2",
+          "weapon": "ชาย"
+        },
+        "verify_info_user": {
+          "give_role_id": "",
+          "verify_by_user_id": "",
+          "time": "",
+          "verify_info_point": "0"
+        }
+      }
+    ]
+  },
+  "919226366120054865": {
+    "user_id": "919226366120054865",
+    "send_info": "1",
+    "verify_info": "1",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381976546167885834",
+          "time": "10/06/2025 | เวลา 19:41 นาที 19 วินาที",
+          "send_info_point": "1",
+          "full_name": "Pruek",
+          "age": "18",
+          "gender": "ชาย",
+          "phone_number": "9",
+          "weapon": "ดูหนัง"
+        },
+        "verify_info_user": {
+          "give_role_id": "1292900921721884725",
+          "verify_by_user_id": "789474038997057557",
+          "time": "10/06/2025 | เวลา 19:42 นาที 11 วินาที",
+          "verify_info_point": "1"
+        }
+      }
+    ]
+  },
+  "789474038997057557": {
+    "user_id": "789474038997057557",
+    "send_info": "1",
+    "verify_info": "0",
+    "user_system": [
+      {
+        "send_info_user": {
+          "message_link_embed_info": "https://discord.com/channels/1277228986266681407/1381634674773725285/1381976670776332390",
+          "time": "10/06/2025 | เวลา 19:41 นาที 48 วินาที",
+          "send_info_point": "1",
+          "full_name": "kon",
+          "age": "1",
+          "gender": "ชาย",
+          "phone_number": "3",
+          "weapon": "นั่งคิดถึงแฟน"
+        },
+        "verify_info_user": {
+          "give_role_id": "",
+          "verify_by_user_id": "",
+          "time": "",
+          "verify_info_point": "0"
+        }
+      }
+    ]
+  }
+}
